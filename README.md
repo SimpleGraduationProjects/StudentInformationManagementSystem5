@@ -7,9 +7,9 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
-    <img src="https://img.shields.io/badge/spring-5.x-lightgrey.svg"/>
-    <img src="https://img.shields.io/badge/springmvc-3.x-blue.svg"/>
-    <img src="https://img.shields.io/badge/mybatis-5.x-yellow.svg"/>
+    <img src="https://img.shields.io/badge/springboot-5.x-lightgrey.svg"/>
+    <img src="https://img.shields.io/badge/mysql-3.x-blue.svg"/>
+    <img src="https://img.shields.io/badge/html-5.x-yellow.svg"/>
 </p>
 
 ## 简介
@@ -38,7 +38,11 @@
 ## 缩略图
 
 
-![]()
+![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709130133235-252922840.png)
+![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709130141147-111664072.png)
+![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709130153940-1782741545.png)
+![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709130158323-1189045923.png)
+![](https://img2022.cnblogs.com/blog/588112/202207/588112-20220709130208090-1626625887.png)
 
 
 ## License
