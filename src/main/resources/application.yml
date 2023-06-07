@@ -2,7 +2,7 @@ spring:
   datasource:
     username: root
     password: 123456
-    url: jdbc:mysql://localhost:3306/graduation_studentsystem
+    url: jdbc:mysql://localhost:3306/graduation_148_studentsystem
     driver-class-name: com.mysql.jdbc.Driver
 #   数据源其他配置
     initialSize: 5
